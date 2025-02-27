@@ -149,7 +149,7 @@ erp-backend/
 | DB_HOST | PostgreSQL host | erp-db-rahulsrivastava503-2bda.h.aivencloud.com |
 | DB_PORT | PostgreSQL port | 23132 |
 | DB_USER | PostgreSQL user | avnadmin |
-| DB_PASSWORD | PostgreSQL password | AVNS_U6TztJofgiQujs9et13 |
+| DB_PASSWORD | PostgreSQL password |  |
 | DB_NAME | Database name | defaultdb |
 | JWT_SECRET | JWT secret key | your_strong_secret_key_32_chars_minimum |
 | REDIS_HOST | Redis host | localhost |
