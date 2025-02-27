@@ -111,10 +111,10 @@ erp-backend/
    - Create `.env`:
    ```
    PORT=5000
-   DB_HOST=erp-db-rahulsrivastava503-2bda.h.aivencloud.com
-   DB_PORT=23132
-   DB_USER=avnadmin
-   DB_PASSWORD=AVNS_U6TztJofgiQujs9et13
+   DB_HOST=
+   DB_PORT=
+   DB_USER=
+   DB_PASSWORD=
    DB_NAME=defaultdb
    JWT_SECRET=your_strong_secret_key_32_chars_minimum
    REDIS_HOST=localhost
